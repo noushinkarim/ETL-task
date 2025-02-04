@@ -18,3 +18,5 @@ OUTPUT FILES:
 
 UNIT TEST FILE
 The unit test file is 'unit_tests.py' and when run in the same directory as 'ETL_Exercise.py' will perform unit tests for this script - there will be no output files.
+
+ADDITIONAL: The script 'Simple_ETL_Exercise.py' is a simple solution for the ETL task without the use of classes or functions.
